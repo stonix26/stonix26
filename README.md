@@ -1,3 +1,5 @@
+![image](https://github.com/stonix26/stonix26/blob/master/dino.gif)
+
 ### Hi there 👋
 
 
