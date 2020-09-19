@@ -3,13 +3,8 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... HumanIQ
-- 🌱 I’m currently learning ... ReactJS & Svelte
-- 👯 I’m looking to collaborate on ... React & Svelte
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... Anything
+- 🔭 I’m currently looking for a job specially related in front-end engineering
+- 🌱 I’m an experienced web developer for more than 4 years
 - 📫 How to reach me: ... <stonix26@gmail.com>
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am a developer 😄
+- ⚡ Fun fact: ... I'm a funny guy.. hehe 😄
